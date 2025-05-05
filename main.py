@@ -200,5 +200,4 @@ def analyze_peg_stability(coin: str, days: int = 7) -> str:
         
 # Run the MCP server
 if __name__ == "__main__":
-    #mcp.run()
-    print(analyze_peg_stability("usdt"))
+    mcp.run()
