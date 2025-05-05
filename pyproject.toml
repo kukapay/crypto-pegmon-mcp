@@ -1,0 +1,12 @@
+[project]
+name = "crypto-pegmon-mcp"
+version = "0.1.0"
+description = "An MCP server that tracks stablecoin peg integrity across multiple blockchains"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=1.7.1",
+    "pandas>=2.2.3",
+    "pycoingecko>=3.2.0",
+    "tabulate>=0.9.0",
+]
