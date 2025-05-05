@@ -2,6 +2,10 @@
 
 An MCP server that tracks stablecoin peg integrity across multiple blockchains, helping AI agents detect depegging risks before they escalate.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/crypto-pegmon-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/crypto-pegmon-mcp/badge" alt="crypto-pegmon-mcp MCP server" />
+</a>
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -141,4 +145,3 @@ Generate a comprehensive stability report for a stablecoin, including historical
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
